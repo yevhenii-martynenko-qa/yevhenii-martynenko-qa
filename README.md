@@ -1,4 +1,4 @@
-![Header](Yevhenii Martynenko (3).png)
+![Header](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Yevhenii%20Martynenko%20(3).png?raw=true)
 
 #### I’m a Junior QA Engineer passionate about software quality and detail-oriented.
 Skilled in manual testing, bug reporting, and test documentation.

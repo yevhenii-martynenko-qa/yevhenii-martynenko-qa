@@ -36,6 +36,6 @@ Eager to grow in QA, contribute to reliable and user-friendly products, and expa
 
 
 #### 
-[mrtnenko@gmail.com](mrtnenko@gmail.com)
+[mail](mrtnenko@gmail.com)
 [LinkedIn](www.linkedin.com/in/yevhenii-martynenko)
 [Telegram](https://t.me/Yevhenii_Martynenko)

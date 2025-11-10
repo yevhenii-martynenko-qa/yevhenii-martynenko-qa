@@ -23,7 +23,7 @@ Eager to grow in QA, contribute to reliable and user-friendly products, and expa
 
 #### Projects
 - [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Swag Labs](https://www.saucedemo.com)
+- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
 
 
 ----------------------

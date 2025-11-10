@@ -36,4 +36,4 @@ Eager to grow in QA, contribute to reliable and user-friendly products, and expa
 
 
 #### CV
-[Link to my CV](www.linkedin.com/in/yevhenii-martynenko)
+[LinkedIn](www.linkedin.com/in/yevhenii-martynenko)

@@ -1,8 +1,8 @@
 ![Header](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Yevhenii%20Martynenko.png?raw=true)
 
-#### Junior QA Engineer passionate about software quality and detail-oriented.
-Familiar with manual testing, bug reporting, and test documentation.
-Eager to grow in QA, contribute to delivering reliable and user-friendly products, and expand skills in automation testing in the near future.
+#### I’m a Junior QA Engineer passionate about software quality and detail-oriented.
+Skilled in manual testing, bug reporting, and test documentation.
+Eager to grow in QA, contribute to reliable and user-friendly products, and expand my skills in automation testing in the near future.
 
 ---
 

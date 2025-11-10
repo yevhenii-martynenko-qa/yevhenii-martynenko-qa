@@ -23,8 +23,8 @@ Eager to grow in QA, contribute to delivering reliable and user-friendly product
 
 #### Projects
 - [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Etsy - e-commerce company](https://)
-- [tehnologika - manufacturing group](https://)
+- [Swag Labs](https://www.saucedemo.com)
+
 
 ----------------------
 
@@ -36,4 +36,4 @@ Eager to grow in QA, contribute to delivering reliable and user-friendly product
 
 
 #### CV
-[Link to my CV](https://)
+[Link to my CV](www.linkedin.com/in/yevhenii-martynenko)

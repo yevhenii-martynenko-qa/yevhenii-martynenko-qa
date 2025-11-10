@@ -16,8 +16,6 @@ Eager to grow in QA, contribute to delivering reliable and user-friendly product
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=googlechrome&logoColor=blue)
 ![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=darkblue)
 ![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5&logoColor=orange)
-![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css&logoColor=blue)
-![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=grey)
 ![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
 

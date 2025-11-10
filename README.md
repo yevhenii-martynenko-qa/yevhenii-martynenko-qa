@@ -1,4 +1,4 @@
-![Header](https://github.com/potf/potf/blob/main/assets/1760106407645.jpeg)
+![Header](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Yevhenii%20Martynenko.png?raw=true)
 
 #### Junior QA Engineer passionate about software quality and detail-oriented.
 Familiar with manual testing, bug reporting, and test documentation.

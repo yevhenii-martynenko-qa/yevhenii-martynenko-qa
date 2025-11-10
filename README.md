@@ -1,6 +1,8 @@
 ![Header](https://github.com/potf/potf/blob/main/assets/1760106407645.jpeg)
 
-#### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms
+#### Junior QA Engineer passionate about software quality and detail-oriented.
+Familiar with manual testing, bug reporting, and test documentation.
+Eager to grow in QA, contribute to delivering reliable and user-friendly products, and expand skills in automation testing in the near future.
 
 ---
 
@@ -29,7 +31,6 @@
 ----------------------
 
 #### Test Documentation
-- [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/)
 - [SQL Queries](https://)
 - [Bug-Reports](https://)
 

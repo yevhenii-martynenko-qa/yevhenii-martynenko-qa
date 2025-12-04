@@ -37,8 +37,9 @@
 #### Contacts
 [Email](mailto:mrtnenko@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yevhenii-martynenko) • [Telegram](https://t.me/Yevhenii_Martynenko)
 
-[Email](mailto:mrtnenko@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-mrtnenko%40gmail.com-090909?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=mrtnenko@gmail.com&su=QA%20Portfolio%20—%20Yevhenii%20Martynenko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yevhenii-martynenko)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Yevhenii_Martynenko)
 
 
 

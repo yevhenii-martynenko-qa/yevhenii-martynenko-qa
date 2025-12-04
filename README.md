@@ -1,8 +1,6 @@
 ![Header](Yevhenii_Martynenko1.png)
 
-#### I’m a Junior QA Engineer passionate about software quality and detail-oriented.
-Skilled in manual testing, bug reporting, and test documentation.
-Eager to grow in QA, contribute to reliable and user-friendly products, and expand my skills in automation testing in the near future.
+#### Junior Manual QA (Kyiv). EP/BVA basics, UI/API checks, clear bug reports. Recent: Swag Labs login — 15 test cases, 5 bugs.
 
 ---
 

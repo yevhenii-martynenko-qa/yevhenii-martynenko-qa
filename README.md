@@ -1,4 +1,4 @@
-![Header](assets/Yevhenii_Martynenko1.png)
+![Header](Yevhenii_Martynenko1.png)
 
 #### Junior Manual QA (Kyiv, Ukraine). EP/BVA basics, UI & API checks, clear bug reports. Recent: Swag Labs login — 15 test cases, 5 bugs.
 

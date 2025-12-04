@@ -5,7 +5,7 @@
 ---
 **Quick links**
 - [Portfolio index (DOCX)](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
-- [Resume/CV (PDF)](assets/Resume Yevhenii Martynenko.pdf)
+- [Resume/CV (PDF)](CV Resume.pdf)
 
 ---
 

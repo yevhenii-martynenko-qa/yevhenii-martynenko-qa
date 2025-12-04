@@ -8,16 +8,14 @@ Eager to grow in QA, contribute to reliable and user-friendly products, and expa
 
 #### Tools
 
-![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=Swagger)
-![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
-![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=googlechrome&logoColor=blue)
-![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=darkblue)
-![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5&logoColor=orange)
-![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
-![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=orange)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-090909?style=for-the-badge&logo=googlechrome)
+![DBeaver (SQL)](https://img.shields.io/badge/DBeaver%20(SQL)-090909?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-090909?style=for-the-badge&logo=github)
+![Google Sheets/Docs](https://img.shields.io/badge/Google%20Sheets%2FDocs-090909?style=for-the-badge&logo=google)
+
 
 -----------------------
 

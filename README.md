@@ -10,9 +10,9 @@
 ---
 
 #### Projects
-- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
-- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
+- [Swag Labs (Web) — Login](https://docs.google.com/spreadsheets/d/194EoZdRwXTVNRnwgXsUaSX1UB93u4XmJ/edit?usp=sharing&ouid=108764913116658075616&rtpof=true&sd=true)
+- [Kapusta Personal Finance App (Team Project)](https://docs.google.com/spreadsheets/d/1tZbnHHwJ7kDItW9BsEKkn5F4hJlc1UTu/edit?usp=sharing&ouid=108764913116658075616&rtpof=true&sd=true)
+- [Course Practice — Web UI & Basic API](https://docs.google.com/document/d/1tUNlMo5hLWJ_IZp-sxjzYSlzIdF5Dt2KGWzeRoItyYM/edit?usp=sharing)
 
 ---
 

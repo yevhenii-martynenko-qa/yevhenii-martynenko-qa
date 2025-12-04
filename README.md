@@ -4,8 +4,8 @@
 
 ---
 **Quick links**
-- Portfolio index (PDF/DOCX): [assets/QA-Portfolio-Index.pdf](assets/QA-Portfolio-Index.pdf)
-- Resume / CV (PDF/DOCX): [assets/Yevhenii-Martynenko-CV.pdf](assets/Yevhenii-Martynenko-CV.pdf)
+- [Portfolio](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
+- [Resume](https://drive.google.com/drive/folders/1qF6gQsUJcbd0yzCt055ZI-XUlwMHpDHH)
   
 #### Tools
 

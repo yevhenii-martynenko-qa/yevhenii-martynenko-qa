@@ -6,7 +6,16 @@
 **Quick links**
 - [Portfolio](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
 - [Resume](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Resume%20Yevhenii%20Martynenko.pdf)
-  
+
+---
+
+#### Projects
+- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
+- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
+- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
+
+---
+
 #### Tools
 
 **Project-based practice**
@@ -23,13 +32,6 @@
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge)
 ![HTML basics](https://img.shields.io/badge/HTML%20basics-090909?style=for-the-badge&logo=html5&logoColor=orange)
 
-
-
------------------------
-
-#### Projects
-- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Swag Labs](https://docs.google.com/spreadsheets/d/1z_YecUeb6k9zVlNuGwj7jc5iojFRisMlsiI9aU0d7RA/edit?usp=sharing)
 
 
 ----------------------

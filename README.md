@@ -37,7 +37,8 @@
 #### Contacts
 [Email](mailto:mrtnenko@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yevhenii-martynenko) • [Telegram](https://t.me/Yevhenii_Martynenko)
 
-[![Email](https://img.shields.io/badge/Email-mrtnenko%40gmail.com-090909?style=for-the-badge)](mailto:mrtnenko@gmail.com)
+[Email](mailto:mrtnenko@gmail.com)
+
 
 
 

@@ -1,6 +1,6 @@
 ![Header](Yevhenii_Martynenko1.png)
 
-#### Junior Manual QA (Kyiv). EP/BVA basics, UI/API checks, clear bug reports. Recent: Swag Labs login — 15 test cases, 5 bugs.
+#### Junior Manual QA (Kyiv, Ukraine). EP/BVA basics, UI & API checks, clear bug reports. Recent: Swag Labs login — 15 test cases, 5 bugs.
 
 ---
 **Quick links**
@@ -32,18 +32,14 @@
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge)
 ![HTML basics](https://img.shields.io/badge/HTML%20basics-090909?style=for-the-badge&logo=html5&logoColor=orange)
 
+---
 
-
-----------------------
-
-#### Test Documentation
-- [SQL Queries](https://)
-- [Bug-Reports](https://)
-
------------------------
-
-
-#### 
+#### Contacts
 [📧 Mail](mrtnenko@gmail.com)
 [LinkedIn](www.linkedin.com/in/yevhenii-martynenko)
 [Telegram](https://t.me/Yevhenii_Martynenko)
+
+
+
+
+

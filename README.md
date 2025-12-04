@@ -5,7 +5,7 @@
 ---
 **Quick links**
 - [Portfolio index (DOCX)](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
-- [Resume/CV (PDF)](CV Resume.pdf)
+- [Resume/CV (PDF)](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/CV%20Resume.pdf)
 
 ---
 

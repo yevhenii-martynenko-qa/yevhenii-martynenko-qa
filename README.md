@@ -3,7 +3,10 @@
 #### Junior Manual QA (Kyiv). EP/BVA basics, UI/API checks, clear bug reports. Recent: Swag Labs login — 15 test cases, 5 bugs.
 
 ---
-
+**Quick links**
+- Portfolio index (PDF/DOCX): [assets/QA-Portfolio-Index.pdf](assets/QA-Portfolio-Index.pdf)
+- Resume / CV (PDF/DOCX): [assets/Yevhenii-Martynenko-CV.pdf](assets/Yevhenii-Martynenko-CV.pdf)
+  
 #### Tools
 
 **Project-based practice**

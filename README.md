@@ -5,7 +5,7 @@
 ---
 **Quick links**
 - [Portfolio](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
-- [Resume](Resume Yevhenii Martynenko.pdf)
+- [Resume](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Resume%20Yevhenii%20Martynenko.pdf)
   
 #### Tools
 

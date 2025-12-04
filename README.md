@@ -8,13 +8,20 @@ Eager to grow in QA, contribute to reliable and user-friendly products, and expa
 
 #### Tools
 
+**Project-based practice**
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=orange)
-![Swagger UI](https://img.shields.io/badge/Swagger%20UI-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![DBeaver (SQL)](https://img.shields.io/badge/DBeaver%20(SQL)-090909?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-090909?style=for-the-badge&logo=github)
 ![Google Sheets/Docs](https://img.shields.io/badge/Google%20Sheets%2FDocs-090909?style=for-the-badge&logo=google)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
+
+**Basic exposure (currently learning)**
+![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=0052cc)
+![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=blue)
+![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge)
+![HTML basics](https://img.shields.io/badge/HTML%20basics-090909?style=for-the-badge&logo=html5&logoColor=orange)
+
 
 
 -----------------------

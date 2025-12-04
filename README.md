@@ -4,7 +4,7 @@
 
 ---
 **Quick links**
-- [Portfolio](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
+- [Portfolio index (DOCX)](https://docs.google.com/document/d/1DRrhydJ2rzq6HtLTOgjBlSr4fWRBNhVS/edit)
 - [Resume](https://github.com/yevhenii-martynenko-qa/yevhenii-martynenko-qa/blob/main/Resume%20Yevhenii%20Martynenko.pdf)
 
 ---
